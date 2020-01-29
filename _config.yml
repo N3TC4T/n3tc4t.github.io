@@ -1,0 +1,25 @@
+# Site specific settings
+title: "N3TC4T"
+name: "N3TC4T"
+keywords: "n3tc4t, react-native, xrp, xrpl"
+url: "https://n3tc4t.com"
+description: "Talk is cheap show me the code!"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+google_verification: "4x7RH5Sm9tjCERw8Lw_5UQdQiFnfFR18lL4gioeV85s"
+
+# Site general settings
+lang: "en"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+disqus: netcat-1
+twitter: baltazar223
+facebook: n3tc4t
+github: n3tc4t
+google:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
