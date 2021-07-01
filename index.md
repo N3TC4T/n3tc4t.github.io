@@ -5,7 +5,7 @@ layout: default
 # $ cat about.txt
 {:id="about"}
 
-I love coding and learning new things, in the past 4 years I played with alot of
+I love coding and learning new things, in the past years I played with alot of
 programming languages, frameworks and platforms and can say I'm a
 jack-of-all-trades.
 
